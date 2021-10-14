@@ -1,0 +1,84 @@
+.navigation {
+  background: black;
+}
+.title {
+  color: white;
+  padding-left: 10px;
+}
+
+.headline {
+  text-align: center;
+  padding: 10px;
+}
+
+#nav {
+  text-align: center;
+  margin: auto;
+}
+
+#nav li {
+  float: right;
+  display: block;
+  width: 150px;
+
+}
+
+#nav li a {
+  text-decoration: none;
+  color: white;
+}
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float:left;
+  width: 280px;
+}
+
+.gallery img {
+  width: 280px;
+  height: 225px;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+  font: Arial;
+}
+
+#footer {
+
+  background:#151515;
+
+  background-position: center;
+
+  clear:both;
+
+  height:50px;
+
+  width: 960px;
+
+  width: 100%;
+
+  maxwidth: 960px;
+
+  text-align: center;
+
+  color: white;
+
+  font: Arial;
+
+  border-style: ridge;
+
+  border-radius: 10px;
+
+  border-color: black;
+
+  padding: 10px 20px;
+
+  margin: auto;
+
+
+    bottom: 0;
+
+}
